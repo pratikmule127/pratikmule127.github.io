@@ -3,15 +3,27 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://pratikmule127.github.io/</loc>
-    <lastmod>2026-11-27</lastmod>
+    <lastmod>2026-11-28</lastmod>
     <priority>1.0</priority>
     <image:image>
       <image:loc>https://pratikmule127.github.io/pratik-mule.jpeg</image:loc>
       <image:title>Pratik Mule - Cloud Engineer, Linux Administrator and Founder of Nexvelor</image:title>
     </image:image>
+    <image:image>
+      <image:loc>https://pratikmule127.github.io/pratik-mule-guest-speaker.jpeg</image:loc>
+      <image:title>Pratik Mule - Guest Speaker at ASUDE Foundation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pratikmule127.github.io/pratik-mule-asude-foundation2.jpeg</image:loc>
+      <image:title>Pratik Mule - IT Career Guidance Session with ASUDE Foundation</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://pratikmule127.github.io/pratik-mule-it-career-guidance.jpeg</image:loc>
+      <image:title>Pratik Mule - Mentoring Students in IT and Cloud Computing</image:title>
+    </image:image>
   </url>
-  <url><loc>https://pratikmule127.github.io/linuxlab.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://pratikmule127.github.io/dblab.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://pratikmule127.github.io/sanskrit-ai.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
-  <url><loc>https://pratikmule127.github.io/nexvelor-cloud.html</loc><lastmod>2026-11-27</lastmod><priority>0.8</priority></url>
+  <url><loc>https://pratikmule127.github.io/linuxlab.html</loc><lastmod>2026-11-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://pratikmule127.github.io/dblab.html</loc><lastmod>2026-11-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://pratikmule127.github.io/sanskrit-ai.html</loc><lastmod>2026-11-28</lastmod><priority>0.8</priority></url>
+  <url><loc>https://pratikmule127.github.io/nexvelor-cloud.html</loc><lastmod>2026-11-28</lastmod><priority>0.8</priority></url>
 </urlset>
